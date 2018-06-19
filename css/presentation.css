@@ -1,0 +1,143 @@
+.red-graphite {
+    font-family:'lato light';
+    max-width:70%;
+    margin:0 auto;
+    padding:20px;
+    color:#545454;
+    line-height:1.5
+}
+
+.red-graphite h1,
+.red-graphite h2,
+.red-graphite h3,
+.red-graphite h4,
+.red-graphite h5,
+.red-graphite h6 {
+    font-family:'lato';
+    font-weight:normal
+}
+
+.red-graphite p {
+    margin-top:0;
+    margin-bottom:13px
+}
+
+.red-graphite li {
+    margin:0
+}
+
+.red-graphite ol,
+.red-graphite ul {
+    margin-top:0;
+    margin-bottom:26px
+}
+
+.red-graphite li ul,
+.red-graphite li ol {
+    margin-bottom:0
+}
+
+.red-graphite a {
+    color:#de4751
+}
+
+.red-graphite table {
+    width:100%
+}
+
+.red-graphite table tr {
+    background-color:#fbfbfb
+}
+
+.red-graphite table tr:nth-child(odd) {
+    background-color:#efefef
+}
+
+.red-graphite table th {
+    background:#fbfbfb
+}
+
+.red-graphite table td,
+.red-graphite table th {
+    border-color:#dedede
+}
+
+.red-graphite blockquote {
+    color:#333;
+    border-color:#de4751
+}
+.red-graphite hr{
+    background-color:#dedede
+}
+.red-graphite .text-cell,
+.red-graphite .markdown-cell {
+    font-size:22px;
+    line-height:inherit;
+    font-family:'lato light';
+    background-color:#fbfbfb
+}
+.red-graphite .ace-xcode,
+.red-graphite .code-cell,
+.red-graphite .latex-cell {
+    font-size:20px;
+    line-height:inherit
+}
+
+.red-graphite *+h1,
+.red-graphite *+h2,
+.red-graphite *+h3,
+.red-graphite *+h4,
+.red-graphite *+h5,
+.red-graphite *+h6 {
+    margin-top:39px
+}
+
+.red-graphite #titlearea {
+    border:0;
+    padding:75px 0
+}
+
+.red-graphite #titlearea .title {
+    font-size:32px;
+    font-family:'lato';
+    margin:0
+}
+
+.red-graphite .cell {
+    margin:26px 0;
+    padding:0
+}
+
+.red-graphite #contentarea {
+    margin:26px 0
+}
+
+.red-graphite h1 {
+    font-size:34px;
+    margin:39px 0 13px
+}
+
+.red-graphite h2 {
+    font-size:30px;
+    margin:39px 0 13px
+}
+
+.red-graphite h3 {
+    font-size:26px;
+    margin:39px 0 13px
+}
+
+.red-graphite h4 {
+    font-size:21px;
+    margin:26px 0 13px
+}
+
+.red-graphite h5 {
+    font-size:19px;
+    margin:26px 0 13px
+}
+
+.red-graphite h6 {
+    font-size:16px;
+    margin:13px 0
+}

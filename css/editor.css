@@ -1,0 +1,109 @@
+.red-graphite {
+    font-family:'lato light';
+    width:70%;
+    max-width:800px;
+    margin:0 auto;
+    padding:20px;
+    color:#545454
+}
+
+.red-graphite a {
+    color:#de4751
+}
+
+.red-graphite blockquote {
+    color:#333
+}
+
+.red-graphite hr {
+    background-color:#dedede
+}
+
+.red-graphite .cell.inEditMode {
+    border-color:#dedede
+}
+
+.red-graphite .text-cell table,
+.red-graphite .text-cell table th,
+.red-graphite .text-cell table td {
+    border:1px solid #dedede!important
+}
+
+.red-graphite .text-cell {
+    font-size:18px;
+    line-height:1.6;
+    font-family:'lato light';
+    background-color:#fbfbfb
+}
+
+.red-graphite .text-cell strong,
+.red-graphite .text-cell b,
+.red-graphite .markdown-cell strong,
+.red-graphite .markdown-cell b {
+    font-family:'lato';
+    font-weight:normal
+}
+
+.red-graphite .code-cell .editor,
+.red-graphite .markdown-cell .ace_editor,
+.red-graphite .latex-cell .editor {
+    font-size:16px;
+    line-height:1.6
+}
+
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_1,
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_2,
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_3,
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_4,
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_5,
+.red-graphite .markdown-cell .ace_markup.ace_heading.ace_6 {
+    color:#de4751 !important
+}
+
+.red-graphite .markdown-cell .ace_heading {
+    color:#333 !important;
+    font-weight: bold
+}
+
+.red-graphite .markdown-cell .ace_string.ace_strong {
+    font-weight: bold
+}
+
+.red-graphite .markdown-cell .ace_string,
+.red-graphite .markdown-cell .ace_line,
+.red-graphite .markdown-cell .ace_support.ace_function,
+.red-graphite .markdown-cell .ace_list,
+.red-graphite .markdown-cell .ace_constant.ace_language.ace_escape {
+    color:#545454 !important
+}
+
+.red-graphite #tag-field {
+    margin:0
+}
+
+.red-graphite #tag-field .tag {
+    background:#fbfbfb;
+    border:0;
+    color:#a0a0a0
+}
+
+.red-graphite #titlearea{
+    padding:0;
+    border:0
+}
+
+.red-graphite #titlearea .title {
+    font-size:32px;
+    font-family:'lato';
+    margin:0
+}
+
+.red-graphite .cell {
+    margin:26px 0;
+    padding:0;
+    border:1px solid white
+}
+
+.red-graphite #contentarea {
+    margin:26px 0
+}

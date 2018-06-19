@@ -1,0 +1,24 @@
+{
+  "name": "quiver-red-graphite-theme",
+  "version": "1.0.0",
+  "description": "# Quiver app Red Graphite theme",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./js/generateTheme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmnunes/quiver-red-graphite-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmnunes/quiver-red-graphite-theme/issues"
+  },
+  "homepage": "https://github.com/jcmnunes/quiver-red-graphite-theme#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "uglifycss": "0.0.29"
+  }
+}

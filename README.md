@@ -8,6 +8,14 @@ It's based on the Red Graphite theme within [Bear writing app](http://www.bear-w
 
 ![Red Graphite screenshot](https://raw.githubusercontent.com/floq-design/quiver-red-graphite-theme/master/screenshot.png)
 
+Customize the theme by changing css files in the css folder and by changing the UI styles `./js/uiStyles.js`. To build the theme run:
+
+```bash
+$ npm run build
+```
+
+A `RedGraphite.json` file will be created containing the new theme.
+
 ---
 # Credits
 ### Lato font
